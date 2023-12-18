@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "ms-vscode.cpptools"
+        "ms-vscode.cpptools",
+        "micro-focus-amc.mfcobol",
+        "micro-focus-amc.mfenterprise"
     ]
 }
