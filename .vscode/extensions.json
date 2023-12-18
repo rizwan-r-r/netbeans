@@ -5,6 +5,11 @@
         "esbenp.prettier-vscode",
         "ms-python.vscode-pylance",
         "redhat.vscode-yaml",
-        "eclipse-cdt.websocket-adapter"
+        "eclipse-cdt.websocket-adapter",
+        "arm.embedded-debug",
+        "prem-kumar.angular-plugins",
+        "aaron-bond.better-comments",
+        "mikael.angular-beastcode",
+        "tonylandi.acmecrossassembler"
     ]
 }
