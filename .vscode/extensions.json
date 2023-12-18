@@ -5,11 +5,16 @@
         "esbenp.prettier-vscode",
         "ms-python.vscode-pylance",
         "redhat.vscode-yaml",
+<<<<<<< HEAD
+        "eclipse-cdt.websocket-adapter",
+        "exploorex.bhailangofficial"
+=======
         "eclipse-cdt.websocket-adapter",
         "arm.embedded-debug",
         "prem-kumar.angular-plugins",
         "aaron-bond.better-comments",
         "mikael.angular-beastcode",
         "tonylandi.acmecrossassembler"
+>>>>>>> 4a4b123d1e3a23c5db0f338ed2f20e8e9325c7fe
     ]
 }
