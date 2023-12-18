@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "ms-python.vscode-pylance",
+        "redhat.vscode-yaml",
+        "eclipse-cdt.websocket-adapter"
+    ]
+}
