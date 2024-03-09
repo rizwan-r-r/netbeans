@@ -1120,7 +1120,7 @@
 	"dependencies": {
 		"@vscode/debugadapter": "1.55.1",
 		"@vscode/webview-ui-toolkit": "^1.2.2",
-		"jsonc-parser": "3.0.0",
+		"jsonc-parser": "3.2.1",
 		"vscode-languageclient": "8.0.1"
 	},
 	"__metadata": {
