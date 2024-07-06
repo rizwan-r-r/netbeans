@@ -1121,7 +1121,7 @@
 		"@vscode/debugadapter": "1.55.1",
 		"@vscode/webview-ui-toolkit": "^1.2.2",
 		"jsonc-parser": "3.0.0",
-		"vscode-languageclient": "8.0.1"
+		"vscode-languageclient": "9.0.1"
 	},
 	"__metadata": {
 		"id": "66c7d7dc-934c-499b-94af-5375e8234fdd",
