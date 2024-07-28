@@ -22,6 +22,6 @@
  #   Licenses | Default License  -->
 <#assign licensePrefix = "# ">
 <#include "${project.licensePath}">
-FROM alpine:latest
+FROM alpine:3
 
 CMD ["/bin/sh"]
